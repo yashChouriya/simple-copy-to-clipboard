@@ -1,4 +1,3 @@
-```markdown
 # Simple Copy to Clipboard
 
 A straightforward HTML and JavaScript code snippet that enables users to copy text to their clipboard easily. This repository contains an `index.html` file with the code for copying text and a basic usage example.
@@ -12,7 +11,7 @@ A straightforward HTML and JavaScript code snippet that enables users to copy te
 
 ## Overview
 
-Have you ever needed a simple way to allow users to copy text to their clipboard with just a click? This repository provides a minimalistic solution to that common problem. The included `index.html` file contains a JavaScript function that creates a temporary textarea element, sets its value to the desired text, and then triggers the copy action. This approach ensures a user-friendly experience for copying text.
+Have you ever needed a simple way to allow users to copy text to their clipboard with just a click? This repository provides a minimalistic solution to that common problem. The included `index.html` file contains a JavaScript function that creates a temporary textarea element, sets its value to the desired text and then triggers the copy action. This approach ensures a user-friendly experience for copying text.
 
 ## Usage
 
